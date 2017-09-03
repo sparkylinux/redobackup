@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Terminal=false
+Name=Redo Backup & Recovery
+Exec=/usr/bin/remsu /usr/bin/redobackup
+Comment=System backup and restore utility
+Name=Redo Backup & Recovery
+Comment=System backup and restore utility
+Icon=redobackup
